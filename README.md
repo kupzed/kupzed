@@ -7,8 +7,14 @@
   <a href="https://instagram.com/kupzed">
     <img src="https://img.shields.io/badge/Instagran-@kupzed-red?logo=instagram&logoColor=white" />
   </a>
+  <a href="https://www.x.com/kupzed">
+    <img src="https://img.shields.io/badge/X (formerly Twitter)-@kupzed-white?logo=x&logoColor=white" />
+  </a>
   <a href="https://www.linkedin.com/in/riza-fahdan-syahda/">
-    <img src="https://img.shields.io/badge/LinkedIn-Riza%20Fahdan%20Syahda-blue?logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Visit-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.behance.net/gallery/186828953/Graphic-Design-and-Photography-Portfolio">
+    <img src="https://img.shields.io/badge/Behance-Visit-black?logo=behance&logoColor=white" />
   </a>
 </p>
 
@@ -20,7 +26,6 @@
 
 ### About Me
 
-- Information Systems student at **Gunadarma University**
 - Passionate about **Web Development, UI/UX, and Blockchain/Web3**
 - Lifelong learner, continuously improving in tech & design
 
@@ -78,12 +83,9 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kupzed&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kupzed&layout=compact&theme=radical" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kupzed&theme=radical" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=kupzed&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kupzed&layout=compact&theme=radical"/>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=kupzed&theme=radical"/> -->
 </p>
 
 ---
