@@ -5,10 +5,10 @@
 
 <p align="center">
   <a href="https://www.x.com/kupzed">
-    <img src="https://img.shields.io/badge/x.com/-kupzed-black?logo=x&logoColor=white" />
+    <img src="https://img.shields.io/badge/x.com/kupzed-black?logo=x&logoColor=white" />
   </a>
   <a href="https://t.me/kupzed">
-    <img src="https://img.shields.io/badge/t.me/-kupzed-blue?logo=telegram&logoColor=white" />
+    <img src="https://img.shields.io/badge/t.me/kupzed-blue?logo=telegram&logoColor=white" />
   </a>
 </p>
 
