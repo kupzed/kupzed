@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kupzed&color=brightgreen" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=kupzed&color=green" alt="Profile Views">
 </p>
 
 ---
