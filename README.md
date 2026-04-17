@@ -98,8 +98,8 @@ I am a Junior Web Developer from Bogor City, Indonesia. Has experience as a Full
   <img src="https://github-readme-stats.vercel.app/api?username=kupzed&show_icons=true&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kupzed&layout=compact&theme=radical"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kupzed&theme=radical"/>
-</p>
+</p> -->
 
 ---
 
-<p align="center"><i>"Code, Design, Learn, Repeat."</i></p> -->
+<p align="center"><i>"Code, Design, Learn, Repeat."</i></p>
