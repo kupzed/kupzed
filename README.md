@@ -100,6 +100,6 @@ I am a Junior Web Developer from Bogor City, Indonesia. Has experience as a Full
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kupzed&theme=radical"/>
 </p> -->
 
----
+<!-- ---
 
-<p align="center"><i>"Code, Design, Learn, Repeat."</i></p>
+<p align="center"><i>"Code, Design, Learn, Repeat."</i></p> -->
