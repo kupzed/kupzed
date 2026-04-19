@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.x.com/kupzed">
+  <a href="https://x.com/kupzed">
     <img src="https://img.shields.io/badge/x.com/kupzed-black?logo=x&logoColor=white" />
   </a>
   <a href="https://t.me/kupzed">
