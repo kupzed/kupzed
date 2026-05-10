@@ -61,6 +61,7 @@ I am a Junior Fullstack Developer based in Bogor, Indonesia. Passionate about bu
 ![Prisma](https://img.shields.io/badge/-Prisma-black?style=flat-square&logo=prisma)
 ![Sequelize](https://img.shields.io/badge/-Sequelize-black?style=flat-square&logo=sequelize)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
+![Supabase](https://img.shields.io/badge/-Supabase-black?style=flat-square&logo=supabase)
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=flat-square&logo=express)
 ![JWT](https://img.shields.io/badge/-JWT-black?style=flat-square&logo=jsonwebtokens)
 ![Postman](https://img.shields.io/badge/-Postman-black?style=flat-square&logo=postman)
