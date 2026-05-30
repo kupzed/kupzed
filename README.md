@@ -91,16 +91,16 @@ I am a Junior Fullstack Developer based in Bogor, Indonesia. Passionate about bu
 ![Adobe Acrobat XI Pro](https://img.shields.io/badge/-Adobe%20Acrobat%20XI%20Pro-black?style=flat-square&logo=adobeacrobatreader)
 ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-black?style=flat-square&logo=coreldraw) -->
 
-<!-- ---
+---
 
 ### GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kupzed&show_icons=true&theme=radical"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kupzed&layout=compact&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kupzed&theme=radical"/>
-</p> -->
+  <img src="https://streak-stats.demolab.com/?user=kupzed&theme=radical"/>
+</p>
 
-<!-- ---
+---
 
-<p align="center"><i>"Code, Design, Learn, Repeat."</i></p> -->
+<p align="center"><i>"Code, Design, Learn, Repeat."</i></p>
