@@ -1,15 +1,5 @@
-<!-- Animated Typing Title -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Kupzed;Welcome+To+My+GitHub" />
-</p>
-
-<p align="center">
-  <a href="https://x.com/kupzed">
-    <img src="https://img.shields.io/badge/x.com/kupzed-black?logo=x&logoColor=white" />
-  </a>
-  <a href="https://t.me/kupzed">
-    <img src="https://img.shields.io/badge/t.me/kupzed-blue?logo=telegram&logoColor=white" />
-  </a>
 </p>
 
 <p align="center">
@@ -96,11 +86,16 @@ I am a Junior Fullstack Developer based in Bogor, Indonesia. Passionate about bu
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kupzed&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kupzed&layout=compact&theme=radical"/>
+  <img src="https://github-readme-stats-one-mu.vercel.app/api?username=kupzed&show_icons=true&theme=radical&include_all_commits=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kupzed&layout=compact&theme=radical&langs_count=8"/>
   <img src="https://streak-stats.demolab.com/?user=kupzed&theme=radical"/>
 </p>
 
 ---
 
-<p align="center"><i>"Code, Design, Learn, Repeat."</i></p>
+<p align="center">
+  <a href="https://x.com/kupzed">X</a> ·
+  <a href="https://instagram.com/kupzed">Instagram</a> ·
+  <a href="https://linkedin.com/in/riza-fahdan-syahda">LinkedIn</a> ·
+  <a href="https://t.me/kupzed">Telegram</a>
+</p>
