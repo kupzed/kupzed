@@ -72,14 +72,7 @@ I am a Junior Fullstack Developer based in Bogor, Indonesia. Passionate about bu
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Behance](https://img.shields.io/badge/-Behance-black?style=flat-square&logo=behance)
 
-<!-- ![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-black?style=flat-square&logo=adobeillustrator)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-black?style=flat-square&logo=adobephotoshop)
-![Adobe Lightroom](https://img.shields.io/badge/-Adobe%20Lightroom-black?style=flat-square&logo=adobelightroom)
-![Adobe Premiere Pro](https://img.shields.io/badge/-Adobe%20Premiere%20Pro-black?style=flat-square&logo=adobepremierepro)
-![Adobe After Effects](https://img.shields.io/badge/-Adobe%20After%20Effects-black?style=flat-square&logo=adobeaftereffects)
-![Adobe Audition](https://img.shields.io/badge/-Adobe%20Audition-black?style=flat-square&logo=adobeaudition)
-![Adobe Acrobat XI Pro](https://img.shields.io/badge/-Adobe%20Acrobat%20XI%20Pro-black?style=flat-square&logo=adobeacrobatreader)
-![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-black?style=flat-square&logo=coreldraw) -->
+<!-- ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-black?style=flat-square&logo=coreldraw) -->
 
 ---
 
