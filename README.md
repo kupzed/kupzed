@@ -19,6 +19,7 @@ I am a Junior Fullstack Developer based in Bogor, Indonesia. Passionate about bu
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![Smart Contracts](https://img.shields.io/badge/-Smart%20Contracts-black?style=flat-square&logo=solidity)
 ![Web3](https://img.shields.io/badge/-Web3-black?style=flat-square&logo=web3dotjs)
+![macOS](https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple)
 
 ---
 
@@ -71,6 +72,7 @@ I am a Junior Fullstack Developer based in Bogor, Indonesia. Passionate about bu
 ![Google Gemini](https://img.shields.io/badge/-Google%20Gemini-black?style=flat-square&logo=googlegemini)
 ![Figma](https://img.shields.io/badge/-Figma-black?style=flat-square&logo=figma)
 ![Behance](https://img.shields.io/badge/-Behance-black?style=flat-square&logo=behance)
+![macOS](https://img.shields.io/badge/-macOS-black?style=flat-square&logo=apple)
 
 <!-- ![CorelDRAW](https://img.shields.io/badge/-CorelDRAW-black?style=flat-square&logo=coreldraw) -->
 
