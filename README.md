@@ -81,9 +81,9 @@ I am a Junior Fullstack Developer based in Bogor, Indonesia. Passionate about bu
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-one-mu.vercel.app/api?username=kupzed&show_icons=true&theme=radical&include_all_commits=true"/>
-  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kupzed&layout=compact&theme=radical&langs_count=8"/> -->
-  <img src="https://streak-stats.demolab.com/?user=kupzed&theme=radical"/>
+  <img src="https://github-readme-stats-one-mu.vercel.app/api?username=kupzed&show_icons=true&theme=yellowdark&include_all_commits=true"/>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kupzed&layout=compact&theme=yellowdark&langs_count=8"/> -->
+  <img src="https://streak-stats.demolab.com/?user=kupzed&theme=yellowdark"/>
 </p>
 
 ---
